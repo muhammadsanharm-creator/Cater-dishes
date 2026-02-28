@@ -1,0 +1,7 @@
+{
+  "name": "Cater Dishes",
+  "description": "A comprehensive catering management system for tracking staff roles (Captain, Supervisor, Mainboy, Juniorboy), attendance via QR codes, and automated wage calculations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
